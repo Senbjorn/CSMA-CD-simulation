@@ -57,6 +57,9 @@ class Station():
             self.wait -= 1
         
 
+BUSY_TIME = 24 # number of intervals of 51.2 ms to send 1530 bytes.
+
+
 class Channel():
     def __init__(self):
         self.busy = 0
@@ -84,7 +87,7 @@ class Channel():
     def process_collisions(self):
         collision_set = set()
         if len(self.data) == 1 and self.busy == 0:
-            self.busy = 1530 // 64 + 1
+            self.busy = BUSY_TIME + 1
         if len(self.data) > 1 and self.busy == 0:
             collision_set = {f.src for f in self.data}
         return collision_set
@@ -99,8 +102,10 @@ def main_loop(n, t_max, output='extended'):
     tau = 51.2e-6
     channel = Channel()
     stations = [Station(i) for i in range(n)]
+
     while True:
         sim_time = dt.timedelta(seconds=time_step * tau)
+        
         # read when the frame is ready
         for s in stations:
             frame = s.read(channel)
