@@ -1,19 +1,36 @@
 # CSMA-CD-simulation
-In this project we simulate behavior of N stations which are trying to<br>
-transmit a Frame via CSMA/CD protocol<br>
+In this project we simulate behavior of several stations which are trying to<br>
+transmit a Frame via CSMA/CD protocol<br> 
+One station is trying to transmit a single frame and then is running only for reading<br>
+frames from other stations.
+
+### Features
+* used non-blocking socktes
+* implemented CSMA/CD protocol
+* we send one byte at a time but not a bit
+* full Ethernet frame with crc32 verification
+* collision detection
+* addaptive wait time after a collision
+
+### Future work
+* add message transport delay
+* add address verification
+* add more functionality for testing
 
 ### Prerequisites
 * python 3.7
 
 ### How to run the simulation
-To run the script you need to type the following in the terminal:<br>
-python simulation.py \<n_stations\> \<max_iter\> \<mode\>
+First, run bus.py wich is a medium for communication between stations
+$ python bus.py \<port\> \<simulation_time\>
+* **port** - port were the bus server is running
+* **simulation_time** - time per one byte
 
-* n_stations - number of stations
-* max_iter - maximum number of steps
-* mode - printing mode (0 - "simple", 1 - "extended")
+Second, run station.py which is a station which is trying to transmit a frame.
+$ python station.py \<port\> \<message\>
+* **port** - port were the bus server is running
+* **message** - message to be sent
 
-### Details
-In **simple** mode the output is **time_step** and **simulation_time** of<br>
-successful write opertations.
-In **extended** mode read, write and collision events are reported.
+Then you can try to set **simulation_time** to 1.0 and run several **stations**<br>
+In different terminal windows at the same time you will see some collisions<br>
+and then message reading

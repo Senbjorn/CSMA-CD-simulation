@@ -3,6 +3,7 @@ from select import select
 import sys
 import time
 import random
+from ethernet import GAP_BYTE
 
 import logging
 from multiprocessing import Process, Manager, Queue
@@ -14,13 +15,15 @@ c_handler.setLevel(logging.DEBUG)
 logger.addHandler(c_handler)
 
 
-def select_process(conn_q):
+def select_process(conn_q, sim_time):
     connections = {}
     while True:
         # add new connections
         while not conn_q.empty():
             sock, addr = conn_q.get()
             connections[addr] = sock
+        
+
         byte_list = []
         pop_list = []
         for conn in connections:
@@ -36,24 +39,37 @@ def select_process(conn_q):
                 # logger.info(f'recv error at {conn}: ' + str(e))
         for conn in pop_list:
             connections.pop(conn, None)
-        # logger.info('byte list:' + str(byte_list))
-        if len(byte_list) > 0:
-            data = random.choice(byte_list)
-            for conn in connections:
-                sock = connections[conn]
+
+        
+        if len(byte_list) > 1:
+            data = random.randint(0, 2 ** 8 - 1).to_bytes(1, 'big')
+        elif len(byte_list) == 1:
+            data = byte_list[0]
+        else:
+            data = GAP_BYTE
+
+
+        pop_list = []
+        for conn in connections:
+            sock = connections[conn]
+            try:
                 sock.send(data)
-        time.sleep(1.)
+            except BrokenPipeError:
+                pop_list.append(conn)
+        for conn in pop_list:
+            connections.pop(conn, None)
+        time.sleep(sim_time)
 
             
             
         
 
 
-def run_server():
+def run_server(port, sim_time):
     logger.info('get server socket')
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server_host = socket.gethostname()
-    server_port = 3001
+    server_port = port
     server_socket.bind((server_host, server_port))
     server_socket.listen(5)
     logger.info('connection was established: ' + str(server_socket.getsockname()))
@@ -61,7 +77,7 @@ def run_server():
 
     manager = Manager()
     conn_q = manager.Queue()
-    sp = Process(target=select_process, args=(conn_q, ), daemon=True)
+    sp = Process(target=select_process, args=(conn_q, sim_time), daemon=True)
     sp.start()
     try:
         while True:
@@ -71,7 +87,11 @@ def run_server():
             logger.info('connection accepted: ' + str(address))
     except KeyboardInterrupt:
         logger.info('server was stopped')
+    server_socket.shutdown(socket.SHUT_RDWR)
+    server_socket.close()
 
 
 if __name__ == '__main__':
-    run_server()
+    port = int(sys.argv[1])
+    sim_time = float(sys.argv[2])
+    run_server(port, sim_time)
