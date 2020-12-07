@@ -1,0 +1,1116 @@
+2020-12-07 14:06:10,491 - __main__ - INFO - status: waiting
+2020-12-07 14:06:10,528 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:10,528 - __main__ - INFO - status: waiting
+2020-12-07 14:06:10,582 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:10,583 - __main__ - INFO - status: waiting
+2020-12-07 14:06:10,639 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:10,639 - __main__ - INFO - status: waiting
+2020-12-07 14:06:10,696 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:10,696 - __main__ - INFO - status: waiting
+2020-12-07 14:06:10,752 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:10,753 - __main__ - INFO - status: waiting
+2020-12-07 14:06:10,805 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:10,806 - __main__ - INFO - status: waiting
+2020-12-07 14:06:10,859 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:10,860 - __main__ - INFO - status: waiting
+2020-12-07 14:06:10,913 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:10,913 - __main__ - INFO - status: waiting
+2020-12-07 14:06:10,969 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:10,969 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,023 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,024 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,080 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,080 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,134 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,135 - __main__ - INFO - status: sending data
+2020-12-07 14:06:11,188 - __main__ - INFO - collision 1
+2020-12-07 14:06:11,189 - __main__ - INFO - collision 1, wait for 64 steps
+2020-12-07 14:06:11,242 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,297 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,350 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,405 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,458 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,513 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,570 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,624 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,625 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,678 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,678 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,734 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,734 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,789 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,789 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,843 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,843 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,900 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,900 - __main__ - INFO - status: waiting
+2020-12-07 14:06:11,954 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:11,954 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,008 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,008 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,061 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,062 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,114 - __main__ - INFO - signal: b'P'
+2020-12-07 14:06:12,115 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,167 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,167 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,221 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,222 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,273 - __main__ - INFO - signal: b'\x16'
+2020-12-07 14:06:12,273 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,326 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,326 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,380 - __main__ - INFO - signal: b's'
+2020-12-07 14:06:12,381 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,433 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,433 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,487 - __main__ - INFO - signal: b'\xfb'
+2020-12-07 14:06:12,487 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,542 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,543 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,595 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,596 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,649 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,649 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,702 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,706 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,757 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,760 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,809 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,809 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,861 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,861 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,914 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,914 - __main__ - INFO - status: waiting
+2020-12-07 14:06:12,966 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:12,966 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,019 - __main__ - INFO - signal: b'%'
+2020-12-07 14:06:13,019 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,072 - __main__ - INFO - signal: b'\xdb'
+2020-12-07 14:06:13,073 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,125 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,125 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,178 - __main__ - INFO - signal: b'\xeb'
+2020-12-07 14:06:13,178 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,231 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,231 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,285 - __main__ - INFO - signal: b'\xbe'
+2020-12-07 14:06:13,285 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,336 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,337 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,389 - __main__ - INFO - signal: b'&'
+2020-12-07 14:06:13,389 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,442 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,442 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,494 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,494 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,547 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,547 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,600 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,600 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,653 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,654 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,708 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,708 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,760 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,760 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,812 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,812 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,865 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,865 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,918 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,918 - __main__ - INFO - status: waiting
+2020-12-07 14:06:13,970 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:13,970 - __main__ - INFO - status: waiting
+2020-12-07 14:06:14,022 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:14,022 - __main__ - INFO - status: waiting
+2020-12-07 14:06:14,076 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:14,076 - __main__ - INFO - status: waiting
+2020-12-07 14:06:14,131 - __main__ - INFO - signal: b'\xab'
+2020-12-07 14:06:14,132 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,184 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,185 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,235 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,236 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,288 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,288 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,342 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,342 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,396 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,397 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,450 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,450 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,505 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,505 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,555 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,555 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,607 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,607 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,659 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,660 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,713 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,713 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,767 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,767 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,821 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:14,821 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,873 - __main__ - INFO - signal: b'\xff'
+2020-12-07 14:06:14,873 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,927 - __main__ - INFO - signal: b'H'
+2020-12-07 14:06:14,927 - __main__ - INFO - status: reading data
+2020-12-07 14:06:14,980 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:14,980 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,034 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:15,034 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,088 - __main__ - INFO - signal: b'f'
+2020-12-07 14:06:15,088 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,142 - __main__ - INFO - signal: b'r'
+2020-12-07 14:06:15,142 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,193 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:15,193 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,246 - __main__ - INFO - signal: b'm'
+2020-12-07 14:06:15,247 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,302 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:15,302 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,355 - __main__ - INFO - signal: b's'
+2020-12-07 14:06:15,355 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,409 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:15,410 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,461 - __main__ - INFO - signal: b'a'
+2020-12-07 14:06:15,461 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,513 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:15,513 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,567 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:15,567 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,621 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:15,621 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,673 - __main__ - INFO - signal: b'n'
+2020-12-07 14:06:15,673 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,730 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:15,730 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,781 - __main__ - INFO - signal: b'1'
+2020-12-07 14:06:15,782 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,835 - __main__ - INFO - signal: b'0'
+2020-12-07 14:06:15,835 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,889 - __main__ - INFO - signal: b'\xe1'
+2020-12-07 14:06:15,889 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,944 - __main__ - INFO - signal: b'#'
+2020-12-07 14:06:15,944 - __main__ - INFO - status: reading data
+2020-12-07 14:06:15,998 - __main__ - INFO - signal: b'p'
+2020-12-07 14:06:15,998 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,050 - __main__ - INFO - signal: b'\xfb'
+2020-12-07 14:06:16,050 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,105 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,105 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,158 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,158 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,212 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,212 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,266 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,266 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,319 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,320 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,373 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,373 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,425 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,425 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,477 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,477 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,530 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,531 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,585 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,585 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,638 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,638 - __main__ - INFO - status: reading data
+2020-12-07 14:06:16,693 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,694 - __main__ - INFO - successful read of a frame
+2020-12-07 14:06:16,694 - __main__ - INFO - message: Hi from station 10
+2020-12-07 14:06:16,694 - __main__ - INFO - status: waiting
+2020-12-07 14:06:16,746 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,746 - __main__ - INFO - status: sending data
+2020-12-07 14:06:16,797 - __main__ - INFO - collision 2
+2020-12-07 14:06:16,797 - __main__ - INFO - collision 2, wait for 192 steps
+2020-12-07 14:06:16,852 - __main__ - INFO - status: waiting
+2020-12-07 14:06:16,904 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:16,959 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,014 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,064 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,119 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,171 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,226 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,226 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,280 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,281 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,334 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,335 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,387 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,387 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,439 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,439 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,492 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,492 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,549 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,550 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,606 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,606 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,655 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,656 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,711 - __main__ - INFO - signal: b'K'
+2020-12-07 14:06:17,712 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,767 - __main__ - INFO - signal: b'\xc7'
+2020-12-07 14:06:17,767 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,822 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,822 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,871 - __main__ - INFO - signal: b'm'
+2020-12-07 14:06:17,871 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,927 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:17,927 - __main__ - INFO - status: waiting
+2020-12-07 14:06:17,980 - __main__ - INFO - signal: b'#'
+2020-12-07 14:06:17,980 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,031 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,031 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,084 - __main__ - INFO - signal: b'\t'
+2020-12-07 14:06:18,085 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,138 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,139 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,196 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,196 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,246 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,246 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,300 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,301 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,351 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,351 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,404 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,405 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,458 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,458 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,514 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,514 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,567 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,567 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,620 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,621 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,674 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,674 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,727 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,727 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,780 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:18,781 - __main__ - INFO - status: waiting
+2020-12-07 14:06:18,834 - __main__ - INFO - signal: b'\xab'
+2020-12-07 14:06:18,834 - __main__ - INFO - status: reading data
+2020-12-07 14:06:18,886 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:18,887 - __main__ - INFO - status: reading data
+2020-12-07 14:06:18,939 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:18,939 - __main__ - INFO - status: reading data
+2020-12-07 14:06:18,993 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:18,993 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,047 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:19,047 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,102 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:19,102 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,154 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:19,155 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,207 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:19,207 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,261 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:19,262 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,315 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:19,315 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,368 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:19,369 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,421 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:19,421 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,474 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:19,474 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,527 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:19,528 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,581 - __main__ - INFO - signal: b'\xff'
+2020-12-07 14:06:19,581 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,635 - __main__ - INFO - signal: b'H'
+2020-12-07 14:06:19,635 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,688 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:19,688 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,741 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:19,741 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,794 - __main__ - INFO - signal: b'f'
+2020-12-07 14:06:19,795 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,848 - __main__ - INFO - signal: b'r'
+2020-12-07 14:06:19,848 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,900 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:19,900 - __main__ - INFO - status: reading data
+2020-12-07 14:06:19,954 - __main__ - INFO - signal: b'm'
+2020-12-07 14:06:19,955 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,008 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:20,008 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,061 - __main__ - INFO - signal: b's'
+2020-12-07 14:06:20,061 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,113 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:20,113 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,164 - __main__ - INFO - signal: b'a'
+2020-12-07 14:06:20,164 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,220 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:20,220 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,274 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:20,274 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,328 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:20,328 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,381 - __main__ - INFO - signal: b'n'
+2020-12-07 14:06:20,382 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,434 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:20,435 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,486 - __main__ - INFO - signal: b'1'
+2020-12-07 14:06:20,487 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,539 - __main__ - INFO - signal: b'"'
+2020-12-07 14:06:20,539 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,592 - __main__ - INFO - signal: b'\x82'
+2020-12-07 14:06:20,592 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,644 - __main__ - INFO - signal: b'\x93'
+2020-12-07 14:06:20,644 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,696 - __main__ - INFO - signal: b']'
+2020-12-07 14:06:20,697 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,751 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:20,751 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,805 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:20,805 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,862 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:20,863 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,918 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:20,918 - __main__ - INFO - status: reading data
+2020-12-07 14:06:20,969 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:20,970 - __main__ - INFO - status: reading data
+2020-12-07 14:06:21,022 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,022 - __main__ - INFO - status: reading data
+2020-12-07 14:06:21,077 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,077 - __main__ - INFO - status: reading data
+2020-12-07 14:06:21,130 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,130 - __main__ - INFO - status: reading data
+2020-12-07 14:06:21,181 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,181 - __main__ - INFO - status: reading data
+2020-12-07 14:06:21,236 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,236 - __main__ - INFO - status: reading data
+2020-12-07 14:06:21,288 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,288 - __main__ - INFO - status: reading data
+2020-12-07 14:06:21,341 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,341 - __main__ - INFO - successful read of a frame
+2020-12-07 14:06:21,341 - __main__ - INFO - message: Hi from station 1
+2020-12-07 14:06:21,341 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,395 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,395 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,449 - __main__ - INFO - signal: b'\xa2'
+2020-12-07 14:06:21,449 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,501 - __main__ - INFO - signal: b'\x13'
+2020-12-07 14:06:21,502 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,555 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,555 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,608 - __main__ - INFO - signal: b'\xec'
+2020-12-07 14:06:21,608 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,661 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,661 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,713 - __main__ - INFO - signal: b'\x96'
+2020-12-07 14:06:21,714 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,768 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,768 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,821 - __main__ - INFO - signal: b'!'
+2020-12-07 14:06:21,821 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,875 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,875 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,927 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,927 - __main__ - INFO - status: waiting
+2020-12-07 14:06:21,980 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:21,980 - __main__ - INFO - status: waiting
+2020-12-07 14:06:22,033 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:22,033 - __main__ - INFO - status: waiting
+2020-12-07 14:06:22,087 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:22,087 - __main__ - INFO - status: waiting
+2020-12-07 14:06:22,143 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:22,144 - __main__ - INFO - status: waiting
+2020-12-07 14:06:22,194 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:22,194 - __main__ - INFO - status: waiting
+2020-12-07 14:06:22,247 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:22,248 - __main__ - INFO - status: waiting
+2020-12-07 14:06:22,301 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:22,302 - __main__ - INFO - status: waiting
+2020-12-07 14:06:22,354 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:22,355 - __main__ - INFO - status: waiting
+2020-12-07 14:06:22,407 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:22,407 - __main__ - INFO - status: waiting
+2020-12-07 14:06:22,460 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:22,460 - __main__ - INFO - status: waiting
+2020-12-07 14:06:22,512 - __main__ - INFO - signal: b'\xab'
+2020-12-07 14:06:22,512 - __main__ - INFO - status: reading data
+2020-12-07 14:06:22,564 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:22,564 - __main__ - INFO - status: reading data
+2020-12-07 14:06:22,618 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:22,618 - __main__ - INFO - status: reading data
+2020-12-07 14:06:22,671 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:22,673 - __main__ - INFO - status: reading data
+2020-12-07 14:06:22,726 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:22,726 - __main__ - INFO - status: reading data
+2020-12-07 14:06:22,777 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:22,777 - __main__ - INFO - status: reading data
+2020-12-07 14:06:22,830 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:22,830 - __main__ - INFO - status: reading data
+2020-12-07 14:06:22,886 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:22,886 - __main__ - INFO - status: reading data
+2020-12-07 14:06:22,938 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:22,938 - __main__ - INFO - status: reading data
+2020-12-07 14:06:22,991 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:22,991 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,043 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:23,044 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,097 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:23,097 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,149 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:23,149 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,202 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:23,203 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,256 - __main__ - INFO - signal: b'\xff'
+2020-12-07 14:06:23,256 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,313 - __main__ - INFO - signal: b'H'
+2020-12-07 14:06:23,314 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,362 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:23,362 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,415 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:23,415 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,469 - __main__ - INFO - signal: b'f'
+2020-12-07 14:06:23,470 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,524 - __main__ - INFO - signal: b'r'
+2020-12-07 14:06:23,526 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,576 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:23,576 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,628 - __main__ - INFO - signal: b'm'
+2020-12-07 14:06:23,629 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,684 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:23,684 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,736 - __main__ - INFO - signal: b's'
+2020-12-07 14:06:23,737 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,788 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:23,789 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,841 - __main__ - INFO - signal: b'a'
+2020-12-07 14:06:23,842 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,894 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:23,894 - __main__ - INFO - status: reading data
+2020-12-07 14:06:23,947 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:23,947 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,000 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:24,000 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,053 - __main__ - INFO - signal: b'n'
+2020-12-07 14:06:24,054 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,111 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:24,112 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,165 - __main__ - INFO - signal: b'1'
+2020-12-07 14:06:24,165 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,218 - __main__ - INFO - signal: b'2'
+2020-12-07 14:06:24,218 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,269 - __main__ - INFO - signal: b'\x0f'
+2020-12-07 14:06:24,270 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,322 - __main__ - INFO - signal: b'-'
+2020-12-07 14:06:24,323 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,376 - __main__ - INFO - signal: b'\x11'
+2020-12-07 14:06:24,376 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,429 - __main__ - INFO - signal: b'\xd7'
+2020-12-07 14:06:24,429 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,483 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:24,484 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,536 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:24,536 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,589 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:24,589 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,644 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:24,644 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,696 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:24,697 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,749 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:24,749 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,802 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:24,804 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,856 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:24,856 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,911 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:24,911 - __main__ - INFO - status: reading data
+2020-12-07 14:06:24,965 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:24,965 - __main__ - INFO - status: reading data
+2020-12-07 14:06:25,015 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,015 - __main__ - INFO - status: reading data
+2020-12-07 14:06:25,069 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,070 - __main__ - INFO - successful read of a frame
+2020-12-07 14:06:25,070 - __main__ - INFO - message: Hi from station 12
+2020-12-07 14:06:25,070 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,122 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,123 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,177 - __main__ - INFO - signal: b'g'
+2020-12-07 14:06:25,178 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,232 - __main__ - INFO - signal: b'\x8a'
+2020-12-07 14:06:25,232 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,282 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,283 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,336 - __main__ - INFO - signal: b'k'
+2020-12-07 14:06:25,336 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,389 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,390 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,445 - __main__ - INFO - signal: b'E'
+2020-12-07 14:06:25,445 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,497 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,497 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,549 - __main__ - INFO - signal: b'\xa0'
+2020-12-07 14:06:25,549 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,601 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,602 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,654 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,654 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,708 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,708 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,763 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,763 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,814 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,815 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,867 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,867 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,922 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,922 - __main__ - INFO - status: waiting
+2020-12-07 14:06:25,974 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:25,974 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,027 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,027 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,080 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,080 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,132 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,132 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,185 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,185 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,238 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,238 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,292 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,293 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,345 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,346 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,398 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,400 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,451 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,452 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,503 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,504 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,556 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,557 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,609 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,610 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,663 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,663 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,718 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,718 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,769 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,770 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,825 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,825 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,878 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,878 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,931 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,932 - __main__ - INFO - status: waiting
+2020-12-07 14:06:26,984 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:26,985 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,037 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,037 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,093 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,094 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,148 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,149 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,202 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,202 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,255 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,256 - __main__ - INFO - status: sending data
+2020-12-07 14:06:27,307 - __main__ - INFO - collision 3
+2020-12-07 14:06:27,307 - __main__ - INFO - collision 3, wait for 448 steps
+2020-12-07 14:06:27,359 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,411 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,464 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,517 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,573 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,626 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,678 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,733 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,733 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,786 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,786 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,839 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,839 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,892 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,892 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,945 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,946 - __main__ - INFO - status: waiting
+2020-12-07 14:06:27,999 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:27,999 - __main__ - INFO - status: waiting
+2020-12-07 14:06:28,051 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:28,052 - __main__ - INFO - status: waiting
+2020-12-07 14:06:28,104 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:28,104 - __main__ - INFO - status: waiting
+2020-12-07 14:06:28,157 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:28,157 - __main__ - INFO - status: waiting
+2020-12-07 14:06:28,210 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:28,210 - __main__ - INFO - status: waiting
+2020-12-07 14:06:28,264 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:28,265 - __main__ - INFO - status: waiting
+2020-12-07 14:06:28,317 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:28,317 - __main__ - INFO - status: waiting
+2020-12-07 14:06:28,370 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:28,371 - __main__ - INFO - status: waiting
+2020-12-07 14:06:28,424 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:28,425 - __main__ - INFO - status: waiting
+2020-12-07 14:06:28,477 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:28,477 - __main__ - INFO - status: waiting
+2020-12-07 14:06:28,532 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:28,532 - __main__ - INFO - status: waiting
+2020-12-07 14:06:28,583 - __main__ - INFO - signal: b'\xab'
+2020-12-07 14:06:28,584 - __main__ - INFO - status: reading data
+2020-12-07 14:06:28,636 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:28,637 - __main__ - INFO - status: reading data
+2020-12-07 14:06:28,690 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:28,690 - __main__ - INFO - status: reading data
+2020-12-07 14:06:28,742 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:28,742 - __main__ - INFO - status: reading data
+2020-12-07 14:06:28,795 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:28,795 - __main__ - INFO - status: reading data
+2020-12-07 14:06:28,849 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:28,850 - __main__ - INFO - status: reading data
+2020-12-07 14:06:28,904 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:28,904 - __main__ - INFO - status: reading data
+2020-12-07 14:06:28,957 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:28,957 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,010 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:29,010 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,061 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:29,062 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,116 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:29,116 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,168 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:29,168 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,221 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:29,221 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,275 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:29,276 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,329 - __main__ - INFO - signal: b'\xff'
+2020-12-07 14:06:29,330 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,384 - __main__ - INFO - signal: b'H'
+2020-12-07 14:06:29,384 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,435 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:29,435 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,487 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:29,488 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,541 - __main__ - INFO - signal: b'f'
+2020-12-07 14:06:29,541 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,594 - __main__ - INFO - signal: b'r'
+2020-12-07 14:06:29,595 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,647 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:29,648 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,701 - __main__ - INFO - signal: b'm'
+2020-12-07 14:06:29,701 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,754 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:29,754 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,808 - __main__ - INFO - signal: b's'
+2020-12-07 14:06:29,808 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,862 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:29,862 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,916 - __main__ - INFO - signal: b'a'
+2020-12-07 14:06:29,917 - __main__ - INFO - status: reading data
+2020-12-07 14:06:29,970 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:29,970 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,023 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:30,023 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,077 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:30,077 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,129 - __main__ - INFO - signal: b'n'
+2020-12-07 14:06:30,129 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,182 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:30,182 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,235 - __main__ - INFO - signal: b'2'
+2020-12-07 14:06:30,236 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,289 - __main__ - INFO - signal: b'\xbb'
+2020-12-07 14:06:30,289 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,342 - __main__ - INFO - signal: b'\x8b'
+2020-12-07 14:06:30,342 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,395 - __main__ - INFO - signal: b'\xc2'
+2020-12-07 14:06:30,396 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,449 - __main__ - INFO - signal: b'\xe7'
+2020-12-07 14:06:30,449 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,503 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:30,503 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,555 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:30,555 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,608 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:30,608 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,661 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:30,662 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,716 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:30,716 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,769 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:30,769 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,821 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:30,822 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,876 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:30,876 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,928 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:30,929 - __main__ - INFO - status: reading data
+2020-12-07 14:06:30,982 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:30,982 - __main__ - INFO - status: reading data
+2020-12-07 14:06:31,039 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,039 - __main__ - INFO - status: reading data
+2020-12-07 14:06:31,092 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,092 - __main__ - INFO - successful read of a frame
+2020-12-07 14:06:31,093 - __main__ - INFO - message: Hi from station 2
+2020-12-07 14:06:31,093 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,144 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,144 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,196 - __main__ - INFO - signal: b'\x93'
+2020-12-07 14:06:31,197 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,250 - __main__ - INFO - signal: b'J'
+2020-12-07 14:06:31,250 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,304 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,304 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,356 - __main__ - INFO - signal: b'\xb4'
+2020-12-07 14:06:31,357 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,409 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,409 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,462 - __main__ - INFO - signal: b'a'
+2020-12-07 14:06:31,462 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,517 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,517 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,569 - __main__ - INFO - signal: b'\xa7'
+2020-12-07 14:06:31,570 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,624 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,624 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,677 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,678 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,731 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,732 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,786 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,786 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,837 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,838 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,892 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,892 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,946 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:31,946 - __main__ - INFO - status: waiting
+2020-12-07 14:06:31,999 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:32,000 - __main__ - INFO - status: waiting
+2020-12-07 14:06:32,052 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:32,052 - __main__ - INFO - status: waiting
+2020-12-07 14:06:32,104 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:32,104 - __main__ - INFO - status: waiting
+2020-12-07 14:06:32,157 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:32,157 - __main__ - INFO - status: waiting
+2020-12-07 14:06:32,211 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:32,214 - __main__ - INFO - status: waiting
+2020-12-07 14:06:32,264 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:32,265 - __main__ - INFO - status: waiting
+2020-12-07 14:06:32,319 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:32,320 - __main__ - INFO - status: waiting
+2020-12-07 14:06:32,372 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:32,373 - __main__ - INFO - status: waiting
+2020-12-07 14:06:32,426 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:32,426 - __main__ - INFO - status: waiting
+2020-12-07 14:06:32,478 - __main__ - INFO - signal: b'\xab'
+2020-12-07 14:06:32,520 - __main__ - INFO - status: reading data
+2020-12-07 14:06:32,535 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:32,535 - __main__ - INFO - status: reading data
+2020-12-07 14:06:32,586 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:32,586 - __main__ - INFO - status: reading data
+2020-12-07 14:06:32,638 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:32,638 - __main__ - INFO - status: reading data
+2020-12-07 14:06:32,691 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:32,692 - __main__ - INFO - status: reading data
+2020-12-07 14:06:32,743 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:32,743 - __main__ - INFO - status: reading data
+2020-12-07 14:06:32,796 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:32,796 - __main__ - INFO - status: reading data
+2020-12-07 14:06:32,849 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:32,849 - __main__ - INFO - status: reading data
+2020-12-07 14:06:32,902 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:32,902 - __main__ - INFO - status: reading data
+2020-12-07 14:06:32,955 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:32,955 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,009 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:33,009 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,062 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:33,062 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,115 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:33,116 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,168 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:33,168 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,220 - __main__ - INFO - signal: b'\xff'
+2020-12-07 14:06:33,220 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,274 - __main__ - INFO - signal: b'H'
+2020-12-07 14:06:33,274 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,329 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:33,329 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,383 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:33,383 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,440 - __main__ - INFO - signal: b'f'
+2020-12-07 14:06:33,440 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,494 - __main__ - INFO - signal: b'r'
+2020-12-07 14:06:33,495 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,548 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:33,548 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,601 - __main__ - INFO - signal: b'm'
+2020-12-07 14:06:33,601 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,654 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:33,654 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,706 - __main__ - INFO - signal: b's'
+2020-12-07 14:06:33,706 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,760 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:33,760 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,812 - __main__ - INFO - signal: b'a'
+2020-12-07 14:06:33,812 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,864 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:33,865 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,917 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:33,917 - __main__ - INFO - status: reading data
+2020-12-07 14:06:33,969 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:33,969 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,022 - __main__ - INFO - signal: b'n'
+2020-12-07 14:06:34,022 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,075 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:34,075 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,128 - __main__ - INFO - signal: b'1'
+2020-12-07 14:06:34,128 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,182 - __main__ - INFO - signal: b'7'
+2020-12-07 14:06:34,182 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,236 - __main__ - INFO - signal: b'\x7f'
+2020-12-07 14:06:34,236 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,289 - __main__ - INFO - signal: b'G'
+2020-12-07 14:06:34,289 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,341 - __main__ - INFO - signal: b'\xe5'
+2020-12-07 14:06:34,341 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,394 - __main__ - INFO - signal: b'X'
+2020-12-07 14:06:34,394 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,446 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:34,446 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,498 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:34,498 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,552 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:34,552 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,605 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:34,605 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,660 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:34,660 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,713 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:34,714 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,764 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:34,764 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,816 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:34,816 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,869 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:34,870 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,924 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:34,924 - __main__ - INFO - status: reading data
+2020-12-07 14:06:34,976 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:34,976 - __main__ - INFO - status: reading data
+2020-12-07 14:06:35,030 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,030 - __main__ - INFO - successful read of a frame
+2020-12-07 14:06:35,030 - __main__ - INFO - message: Hi from station 17
+2020-12-07 14:06:35,031 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,084 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,084 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,136 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,137 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,189 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,189 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,243 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,243 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,295 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,295 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,348 - __main__ - INFO - signal: b'\x14'
+2020-12-07 14:06:35,349 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,400 - __main__ - INFO - signal: b'h'
+2020-12-07 14:06:35,400 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,452 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,453 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,509 - __main__ - INFO - signal: b'\x08'
+2020-12-07 14:06:35,510 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,562 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,562 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,615 - __main__ - INFO - signal: b'\xbb'
+2020-12-07 14:06:35,615 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,673 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,674 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,723 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:35,724 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,777 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,778 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,834 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,834 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,886 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,887 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,940 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,940 - __main__ - INFO - status: waiting
+2020-12-07 14:06:35,993 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:35,994 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,048 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:36,049 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,099 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:36,099 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,152 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:36,152 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,204 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:36,205 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,257 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,258 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,310 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,310 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,364 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,364 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,416 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,416 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,468 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,469 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,521 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,521 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,574 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,574 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,627 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,627 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,679 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,680 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,731 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,731 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,785 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,786 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,839 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,839 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,892 - __main__ - INFO - signal: b'\x00'
+2020-12-07 14:06:36,892 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,944 - __main__ - INFO - signal: b'\xff'
+2020-12-07 14:06:36,944 - __main__ - INFO - status: waiting
+2020-12-07 14:06:36,997 - __main__ - INFO - signal: b'H'
+2020-12-07 14:06:36,997 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,049 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:37,049 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,101 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:37,102 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,154 - __main__ - INFO - signal: b'f'
+2020-12-07 14:06:37,155 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,207 - __main__ - INFO - signal: b'r'
+2020-12-07 14:06:37,207 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,259 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:37,260 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,313 - __main__ - INFO - signal: b'm'
+2020-12-07 14:06:37,313 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,365 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:37,365 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,417 - __main__ - INFO - signal: b's'
+2020-12-07 14:06:37,417 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,472 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:37,472 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,526 - __main__ - INFO - signal: b'a'
+2020-12-07 14:06:37,526 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,577 - __main__ - INFO - signal: b't'
+2020-12-07 14:06:37,577 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,631 - __main__ - INFO - signal: b'i'
+2020-12-07 14:06:37,632 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,685 - __main__ - INFO - signal: b'o'
+2020-12-07 14:06:37,686 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,739 - __main__ - INFO - signal: b'n'
+2020-12-07 14:06:37,739 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,792 - __main__ - INFO - signal: b' '
+2020-12-07 14:06:37,792 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,845 - __main__ - INFO - signal: b'2'
+2020-12-07 14:06:37,845 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,897 - __main__ - INFO - signal: b'0'
+2020-12-07 14:06:37,897 - __main__ - INFO - status: waiting
+2020-12-07 14:06:37,949 - __main__ - INFO - signal: b'\xca'
+2020-12-07 14:06:37,949 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,002 - __main__ - INFO - signal: b'\x0e'
+2020-12-07 14:06:38,002 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,056 - __main__ - INFO - signal: b'#'
+2020-12-07 14:06:38,056 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,108 - __main__ - INFO - signal: b'8'
+2020-12-07 14:06:38,109 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,161 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,162 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,217 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,217 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,267 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,268 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,320 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,320 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,374 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,375 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,427 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,427 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,480 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,480 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,533 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,533 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,587 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,587 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,640 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,640 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,693 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,694 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,748 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,748 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,801 - __main__ - INFO - signal: b'e'
+2020-12-07 14:06:38,801 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,854 - __main__ - INFO - signal: b'\x8e'
+2020-12-07 14:06:38,854 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,913 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:38,913 - __main__ - INFO - status: waiting
+2020-12-07 14:06:38,965 - __main__ - INFO - signal: b'\xd9'
+2020-12-07 14:06:38,965 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,017 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,017 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,070 - __main__ - INFO - signal: b'd'
+2020-12-07 14:06:39,070 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,124 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,125 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,177 - __main__ - INFO - signal: b'\r'
+2020-12-07 14:06:39,178 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,231 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,231 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,284 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,285 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,338 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,338 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,392 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,392 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,444 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,444 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,502 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,503 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,558 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,558 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,608 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,608 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,661 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,661 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,713 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,714 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,766 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,766 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,819 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,819 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,873 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,874 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,927 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,927 - __main__ - INFO - status: waiting
+2020-12-07 14:06:39,980 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:39,983 - __main__ - INFO - status: waiting
+2020-12-07 14:06:40,033 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:40,034 - __main__ - INFO - status: waiting
+2020-12-07 14:06:40,086 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:40,087 - __main__ - INFO - status: waiting
+2020-12-07 14:06:40,140 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:40,140 - __main__ - INFO - status: waiting
+2020-12-07 14:06:40,192 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:40,192 - __main__ - INFO - status: waiting
+2020-12-07 14:06:40,245 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:40,245 - __main__ - INFO - status: waiting
+2020-12-07 14:06:40,297 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:40,297 - __main__ - INFO - status: waiting
+2020-12-07 14:06:40,354 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:40,354 - __main__ - INFO - status: waiting
+2020-12-07 14:06:40,409 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:40,409 - __main__ - INFO - status: waiting
+2020-12-07 14:06:40,458 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:40,459 - __main__ - INFO - status: waiting
+2020-12-07 14:06:40,517 - __main__ - INFO - signal: b'\xaa'
+2020-12-07 14:06:40,517 - __main__ - INFO - terminated on: time exceeded

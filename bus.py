@@ -74,7 +74,7 @@ def run_server(port, sim_time, max_time):
     server_port = port
     server_socket.bind((server_host, server_port))
     server_socket.setblocking(False)
-    server_socket.listen(5)
+    server_socket.listen(100)
     logger.info('connection was established: ' + str(server_socket.getsockname()))
     logger.info('proceed to mainloop')
 

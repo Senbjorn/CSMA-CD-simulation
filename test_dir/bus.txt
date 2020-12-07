@@ -1,7 +1,24 @@
-2020-12-07 03:43:32,447 - __main__ - INFO - get server socket
-2020-12-07 03:43:32,448 - __main__ - INFO - connection was established: ('127.0.1.1', 3000)
-2020-12-07 03:43:32,448 - __main__ - INFO - proceed to mainloop
-2020-12-07 03:43:37,451 - __main__ - INFO - connection accepted: ('127.0.0.1', 33084)
-2020-12-07 03:43:37,453 - __main__ - INFO - connection accepted: ('127.0.0.1', 33086)
-2020-12-07 03:43:37,454 - __main__ - INFO - connection accepted: ('127.0.0.1', 33088)
-2020-12-07 03:44:02,477 - __main__ - INFO - terminated on: time exceeded
+2020-12-07 14:06:05,199 - __main__ - INFO - get server socket
+2020-12-07 14:06:05,200 - __main__ - INFO - connection was established: ('127.0.1.1', 3003)
+2020-12-07 14:06:05,200 - __main__ - INFO - proceed to mainloop
+2020-12-07 14:06:10,501 - __main__ - INFO - connection accepted: ('127.0.0.1', 50238)
+2020-12-07 14:06:10,502 - __main__ - INFO - connection accepted: ('127.0.0.1', 50240)
+2020-12-07 14:06:10,504 - __main__ - INFO - connection accepted: ('127.0.0.1', 50242)
+2020-12-07 14:06:10,505 - __main__ - INFO - connection accepted: ('127.0.0.1', 50244)
+2020-12-07 14:06:10,506 - __main__ - INFO - connection accepted: ('127.0.0.1', 50246)
+2020-12-07 14:06:10,508 - __main__ - INFO - connection accepted: ('127.0.0.1', 50248)
+2020-12-07 14:06:10,509 - __main__ - INFO - connection accepted: ('127.0.0.1', 50250)
+2020-12-07 14:06:10,510 - __main__ - INFO - connection accepted: ('127.0.0.1', 50252)
+2020-12-07 14:06:10,512 - __main__ - INFO - connection accepted: ('127.0.0.1', 50254)
+2020-12-07 14:06:10,512 - __main__ - INFO - connection accepted: ('127.0.0.1', 50256)
+2020-12-07 14:06:10,514 - __main__ - INFO - connection accepted: ('127.0.0.1', 50258)
+2020-12-07 14:06:10,515 - __main__ - INFO - connection accepted: ('127.0.0.1', 50260)
+2020-12-07 14:06:10,516 - __main__ - INFO - connection accepted: ('127.0.0.1', 50262)
+2020-12-07 14:06:10,517 - __main__ - INFO - connection accepted: ('127.0.0.1', 50264)
+2020-12-07 14:06:10,518 - __main__ - INFO - connection accepted: ('127.0.0.1', 50266)
+2020-12-07 14:06:10,520 - __main__ - INFO - connection accepted: ('127.0.0.1', 50268)
+2020-12-07 14:06:10,521 - __main__ - INFO - connection accepted: ('127.0.0.1', 50270)
+2020-12-07 14:06:10,523 - __main__ - INFO - connection accepted: ('127.0.0.1', 50272)
+2020-12-07 14:06:10,524 - __main__ - INFO - connection accepted: ('127.0.0.1', 50274)
+2020-12-07 14:06:10,525 - __main__ - INFO - connection accepted: ('127.0.0.1', 50276)
+2020-12-07 14:06:45,563 - __main__ - INFO - terminated on: time exceeded

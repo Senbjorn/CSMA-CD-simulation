@@ -152,5 +152,5 @@ if __name__ == '__main__':
     port = int(sys.argv[1])
     t = float(sys.argv[2])
     message = sys.argv[3].encode('utf-8')
-    s = Station(3000, message, t)
+    s = Station(port, message, t)
     s.run_client()
