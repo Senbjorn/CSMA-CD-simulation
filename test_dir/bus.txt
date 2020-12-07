@@ -1,0 +1,7 @@
+2020-12-07 03:43:32,447 - __main__ - INFO - get server socket
+2020-12-07 03:43:32,448 - __main__ - INFO - connection was established: ('127.0.1.1', 3000)
+2020-12-07 03:43:32,448 - __main__ - INFO - proceed to mainloop
+2020-12-07 03:43:37,451 - __main__ - INFO - connection accepted: ('127.0.0.1', 33084)
+2020-12-07 03:43:37,453 - __main__ - INFO - connection accepted: ('127.0.0.1', 33086)
+2020-12-07 03:43:37,454 - __main__ - INFO - connection accepted: ('127.0.0.1', 33088)
+2020-12-07 03:44:02,477 - __main__ - INFO - terminated on: time exceeded

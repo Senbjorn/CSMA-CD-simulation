@@ -67,12 +67,13 @@ def select_process(conn_q, sim_time):
         
 
 
-def run_server(port, sim_time):
+def run_server(port, sim_time, max_time):
     logger.info('get server socket')
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server_host = socket.gethostname()
     server_port = port
     server_socket.bind((server_host, server_port))
+    server_socket.setblocking(False)
     server_socket.listen(5)
     logger.info('connection was established: ' + str(server_socket.getsockname()))
     logger.info('proceed to mainloop')
@@ -82,13 +83,24 @@ def run_server(port, sim_time):
     sp = Process(target=select_process, args=(conn_q, sim_time), daemon=True)
     sp.start()
     try:
+        time_start = time.time()
         while True:
-            client_socket, address = server_socket.accept()
-            client_socket.setblocking(False)
-            conn_q.put((client_socket, address))
-            logger.info('connection accepted: ' + str(address))
+            r, _, _ = select([server_socket], [server_socket], [server_socket], 1.0)
+            for s in r:
+                try:
+                    client_socket, address = s.accept()
+                    client_socket.setblocking(False)
+                    conn_q.put((client_socket, address))
+                    logger.info('connection accepted: ' + str(address))
+                except Exception:
+                    pass
+            time_elapsed = time.time() - time_start
+            if time_elapsed >= max_time:
+                raise RuntimeError('time exceeded')
+    except Exception as e:
+        logger.info('terminated on: ' + str(e))
     except KeyboardInterrupt:
-        logger.info('server was stopped')
+        logger.info('terminated by user')
     server_socket.shutdown(socket.SHUT_RDWR)
     server_socket.close()
 
@@ -96,4 +108,5 @@ def run_server(port, sim_time):
 if __name__ == '__main__':
     port = int(sys.argv[1])
     sim_time = float(sys.argv[2])
-    run_server(port, sim_time)
+    t = float(sys.argv[3])
+    run_server(port, sim_time, t)
