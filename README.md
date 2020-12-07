@@ -37,7 +37,7 @@ Then you can try to set **simulation_time** to 1.0 and run several **stations**<
 In different terminal windows at the same time you will see some collisions<br>
 and then message reading<br><br>
 
-Use convenience test.sh script
+Use convenience test.sh script<br>
 $ bash test.sh \<port\> \<n_stations\> \<station_time\> \<output_dir\>
 * **port** - port were the bus server is running
 * **n_stations** - number of stations
