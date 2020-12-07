@@ -22,15 +22,24 @@ frames from other stations.
 
 ### How to run the simulation
 First, run bus.py wich is a medium for communication between stations
-$ python bus.py \<port\> \<simulation_time\>
+$ python bus.py \<port\> \<simulation_time\> \<max_time\>
 * **port** - port were the bus server is running
 * **simulation_time** - time per one byte
+* **max_time** - maximum working time
 
 Second, run station.py which is a station which is trying to transmit a frame.
-$ python station.py \<port\> \<message\>
+$ python station.py \<port\> \<max_time\> \<messag\>
 * **port** - port were the bus server is running
+* **max_time** - maximum working time
 * **message** - message to be sent
 
 Then you can try to set **simulation_time** to 1.0 and run several **stations**<br>
 In different terminal windows at the same time you will see some collisions<br>
-and then message reading
+and then message reading<br><br>
+
+Use convenience test.sh script
+$ bash test.sh \<port\> \<n_stations\> \<station_time\> \<output_dir\>
+* **port** - port were the bus server is running
+* **n_stations** - number of stations
+* **station_time** - working time of a station. Server is running for 5 seconds longer
+* **output_dir** - directory were all logs will be stored
