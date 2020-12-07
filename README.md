@@ -21,13 +21,13 @@ frames from other stations.
 * python 3.7
 
 ### How to run the simulation
-First, run bus.py wich is a medium for communication between stations
+First, run bus.py wich is a medium for communication between stations.<br>
 $ python bus.py \<port\> \<simulation_time\> \<max_time\>
 * **port** - port were the bus server is running
 * **simulation_time** - time per one byte
 * **max_time** - maximum working time
 
-Second, run station.py which is a station which is trying to transmit a frame.
+Second, run station.py which is a station which is trying to transmit a frame.<br>
 $ python station.py \<port\> \<max_time\> \<messag\>
 * **port** - port were the bus server is running
 * **max_time** - maximum working time
